@@ -162,6 +162,10 @@ input[type=submit]:hover {
     flex-wrap: wrap;
     justify-content: space-between;
 }
+.div07 {
+    flex-basis: 32%;
+    max-width: 300px;
+}
 .bgcolor {
     background-color: #e7e7e7 !important;
     display: flow-root;
