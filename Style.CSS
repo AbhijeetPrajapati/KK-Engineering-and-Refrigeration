@@ -44,7 +44,9 @@ body {
     display: inline-block;
     box-flex: 1;
     flex-grow: 1;
-    font-size: 22px;
+    color: black;
+    font-family: serif;
+    font-size: 35px;
     line-height: normal;
     min-width: 22px;
     overflow: hidden;
