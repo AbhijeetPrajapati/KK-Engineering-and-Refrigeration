@@ -31,7 +31,7 @@ body {
     position: fixed;
     z-index: 50;
     align-items: center;
-    background: aquamarine;
+    background: black;
     box-sizing: border-box;
     display: grid;
     height: 85px;
